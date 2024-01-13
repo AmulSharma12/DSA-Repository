@@ -1,4 +1,4 @@
-package Patterns;
+package DSABootCampFraz.S1_Patterns;
 import java.util.Scanner;
 
 public class Pattern3 {
