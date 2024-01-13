@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA Practice.iml" filepath="$PROJECT_DIR$/DSA Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrazDSABootCamp/FrazDSABootCamp.iml" filepath="$PROJECT_DIR$/FrazDSABootCamp/FrazDSABootCamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrazDSABootCamp/Patterns.iml" filepath="$PROJECT_DIR$/FrazDSABootCamp/Patterns.iml" />
+    </modules>
+  </component>
+</project>
