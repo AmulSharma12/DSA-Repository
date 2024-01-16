@@ -23,7 +23,7 @@ public class P14_NQueen {
                 for (int j = 0; j < m; j++) {
                     System.out.print(board[i][j] + " ");
                 }
-                System.out.println("");
+                System.out.println();
             }
 
             //return true as we are able to place the queen in the board
